@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rehamnia-max (Rehamnia walid)
+- 👋 Hi, I’m @rehamnia-max (Rehamnia walid).
 - 👀 I'm obsessed in everything about the Computer Science
-- 🌱 I’m currently learning new skills
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me (rehamniawalid.info@gmail.com)
+- 🌱 I’m currently learning new skills and technologies 
+- 💞️ I’m looking to collaborate on big projects
+- 📫 Mail:rehamniawalid.info@gmail.com
 
 <!---
 rehamnia-max/rehamnia-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
