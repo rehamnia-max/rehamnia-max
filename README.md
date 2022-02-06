@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rehamnia Walid ( Master degree student at Computer Science department ).
+- 👋 Hi, I’m Rehamnia Walid ( Master degree student at Computer Science department + Software developer at RYM SERVICE + Freelncer ).
 - 👀 I'm obsessed in everything about the Computer Science
 - 🌱 I’m currently learning new skills and technologies 
 - 💞️ I’m looking to collaborate on big projects
