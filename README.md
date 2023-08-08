@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rehamnia Walid ( Master degree student at Computer Science department (Annaba) + Software developer at RYM SERVICE + Freelancer ).
+- 👋 Hi, I’m Walid Rehamnia ( Master degree student at Computer Science department (Annaba) + Software developer at RYM SERVICE + Freelancer ).
 - 👀 I'm obsessed in everything about the Computer Science, specially data science and software engineering
 - 🌱 I’m currently learning new skills and technologies 
 - 💞️ I’m looking to collaborate on big projects
